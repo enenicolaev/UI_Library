@@ -1,0 +1,18 @@
+@import "general/null_style.scss";
+@import "general/fonts.scss";
+@import "general/variables.scss";
+@import "general/mixins.scss";
+@import "general/medias.scss";
+@import "components/ui.scss";
+@import "helpers/classes";
+
+
+
+.container {
+   max-width: 1180px;
+   padding: 0 20px;
+   margin: 0 auto;
+}
+
+
+
