@@ -13,7 +13,7 @@ $("button").on("click", () => {
 $("#trigger").click(() => {
    $("#trigger").createModal({
       text: {
-         title: "MODSL TITLE",
+         title: "MODAL TITLE",
          body: "BODY BODY BOODY",
       },
       btns: {
