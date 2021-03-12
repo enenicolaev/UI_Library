@@ -28,7 +28,7 @@ $("#trigger").click(() => {
                classNames: ["btn-success"],
                close: false,
                cb: () => {
-                  alert("Заебумба")
+                  alert("Отлично")
                },
             },
             {
@@ -36,7 +36,7 @@ $("#trigger").click(() => {
                classNames: ["btn-warning", "ml-10"],
                close: false,
                cb: () => {
-                  alert("опасный заебумба")
+                  alert("не отлично")
                },
             },
          ],
